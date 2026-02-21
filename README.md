@@ -20,10 +20,15 @@ Case: CIT DS360
 
 3. Build Steps
 Installed CPU, cooler, SSD and RAM
+
 Installed case fans 
+
 Mounted motherboard and connected PSU cables
+
 Installed GPU
+
 Completed cable management
+
 Performed first boot and entered BIOS
 
 4. Issues & Fixes (Troubleshooting Log)
@@ -44,22 +49,32 @@ Fix: Upgraded to MSI B550 motherboard → Windows installation worked correctly
 
 What I learned:
 Always check RAM and GPU seating first
+
 Test system with minimal components
+
 Research motherboard, CPU, and OS compatibility before final assembly
 
 5. OS & Driver Setup
 Installed Windows 11
+
 Installed GPU drivers (NVIDIA)
+
 Installed motherboard drivers (chipset, audio, LAN)
+
 Applied Windows updates
 
 6. Final Checks
 Confirmed both RAM modules were recognized in tasks manager 
+
 Checked all the fans were spinning and airflow was normal 
+
 Verified all hardware is recognized in BIOS and Windows
 
 7. Summary / What I Learned
 Improved hardware knowledge and much more confident with building a PC
+
 Double check hardware compatibility from other sources
+
 Troubleshooting hardware and software within a system
+
 Able to diagnose issues with more confidence 
